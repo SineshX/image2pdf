@@ -1,8 +1,8 @@
 # image2pdf 
 
-##usage : 
+## usage : 
 ''' To Convert multiple image of a folder (images here) into a single pdf  (Combined.pdf) '''
-###also 
+### also 
 ''' To Convert each image of a folder(data here) into a single-single pdf (fileNameOfjpg.pdf)'''
 
 
