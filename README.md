@@ -19,9 +19,9 @@ requirements :
 just put all jpg and run the python script , it will :
 
 ''' Convert multiple image of current directory(folder) into a single pdf  (Combined.pdf) '''
-or 
+#### or 
 ''' Convert each image of a current directory(folder) into a single-single pdf (fileNameOfjpg.pdf)'''
-
+ " from commented code"
 
 
 ## in old folder you can use pillo lib
